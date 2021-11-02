@@ -18,3 +18,11 @@ To clone it:
 ```bash
 git clone https://github.com/vsaraikin/Portfolio_Analyzer
 ```
+For checking out the results open the "test.ipynb"
+
+This is what that module can plot:
+![alt text](https://github.com/vsaraikin/Portfolio_Analyzer/blob/main/images/cumret.png)
+![alt text](https://github.com/vsaraikin/Portfolio_Analyzer/blob/main/images/dist.png)
+![alt text](https://github.com/vsaraikin/Portfolio_Analyzer/blob/main/images/drawdowns.png)
+![alt text](https://github.com/vsaraikin/Portfolio_Analyzer/blob/main/images/effecient_fr.png)
+![alt text](https://github.com/vsaraikin/Portfolio_Analyzer/blob/main/images/heatmap.png)
