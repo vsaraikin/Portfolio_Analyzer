@@ -1,5 +1,5 @@
 # Portfolio_Analyzer
-This module was created for the following purposes: portfolio rebalancing with minimization of volatility and maximization of the Sharpe ratio and quick presentation of portfolio's perfomance. And it does it quickly.
+This module was created for the following purposes: portfolio rebalancing with minimization of volatility, maximization of the Sharpe ratio and quick presentation of portfolio's perfomance.
 
 You can also get metrics for your portfolio in one line:
 - Total Return of portfolio
